@@ -1,7 +1,7 @@
-# Mental-Health-Data-Kaggle-Competition-S4-E11
+# Mental Health Data Kaggle Competition Season 4 Episode 11
 
-## For full project view please visit Dags Hub https://dagshub.com/maimunul/Mental-Health-Data-Competition-s4-e11-Kaggle
-
+## For full project view please visit **Dags Hub** https://dagshub.com/maimunul/Mental-Health-Data-Competition-s4-e11-Kaggle
+---------
 
 # 🧠 Welcome to the *Exploring Mental Health Data* Notebook!
 
@@ -32,10 +32,6 @@ Welcome to our Kaggle competition project **Exploring Mental Health Data!** In t
    * Summarizing key findings and outlining potential improvements.
 
 
-
-
-
-
 ---
 
 ## 🎯 Introduction
@@ -55,36 +51,6 @@ Our approach to the competition will include the following steps:
 2. **Feature Engineering**: Create and select meaningful features.
 3. **Model Training and Tuning**: Build, evaluate, and tune models.
 4. **Submission Preparation**: Prepare final predictions for submission.
-
-
-## Note: We use Optuna for finding best hyperparameter for that we use another notebook and we are only pasting best hyperparameter here. Best Model is Catboost with default hyperparameter
-
-
-
-
-
----
-
-## 🎯 Introduction
-
-### Competition Goal 🏁
-The goal of this competition is to explore mental health survey data and identify key factors associated with depression. By analyzing various features, we aim to make predictions that can accurately indicate the presence of depression.
-
-### Key Deliverables 📋
-We will produce predictions for each entry in the test set, aiming to achieve high accuracy in identifying individuals who may experience depression.
-
-### Evaluation Metric 🎯
-Submissions are evaluated using the **Accuracy Score**, meaning our predictions will be judged based on the proportion of correct classifications.
-
-### Approach Outline 🧩
-Our approach to the competition will include the following steps:
-1. **Data Exploration and Visualization**: Gain initial insights into the dataset.
-2. **Feature Engineering**: Create and select meaningful features.
-3. **Model Training and Tuning**: Build, evaluate, and tune models.
-4. **Submission Preparation**: Prepare final predictions for submission.
-
-
-## Note: We use Optuna for finding best hyperparameter for that we use another notebook and we are only pasting best hyperparameter here. Best Model is Catboost with default hyperparameter
 
 
 
