@@ -52,6 +52,7 @@ Our approach to the competition will include the following steps:
 3. **Model Training and Tuning**: Build, evaluate, and tune models.
 4. **Submission Preparation**: Prepare final predictions for submission.
 
+![Project Banner](https://github.com/maimunul/Mental-Health-Data-Kaggle-Competition-S4-E11/blob/main/Screenshot%202025-03-26%20163422.png)
 
 
 # 📊 Dataset Overview: Understanding Depression Risk Factors among Adults
