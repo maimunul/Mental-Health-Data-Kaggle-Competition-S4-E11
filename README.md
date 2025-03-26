@@ -1,6 +1,6 @@
 # Mental Health Data Kaggle Competition Season 4 Episode 11
 
-## For full project view please visit **Dags Hub** https://dagshub.com/maimunul/Mental-Health-Data-Competition-s4-e11-Kaggle
+## For view full project, please visit **Dags Hub** https://dagshub.com/maimunul/Mental-Health-Data-Competition-s4-e11-Kaggle
 ---------
 
 # 🧠 Welcome to the *Exploring Mental Health Data* Notebook!
